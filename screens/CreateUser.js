@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
   },
   login: {
     width: 324,
-    height: 287
+    height: 200
   },
   texto: {
     fontSize: 28,
