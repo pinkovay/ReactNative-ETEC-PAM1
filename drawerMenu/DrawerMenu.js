@@ -9,8 +9,6 @@ import {
     DrawerItem
 } from '@react-navigation/drawer'
 
-
-
 import MyDrawer from './MyDrawer';
 
 export default function DrawerMenu() {
